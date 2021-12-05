@@ -1,8 +1,5 @@
 ### 👋 Olá!!! Seja bem-vindo(a)
 
-##
-
-
 
 <div align="left">
  <a href="https://github.com/mariaraquell">
