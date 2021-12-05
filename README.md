@@ -5,6 +5,8 @@
 
 ##
 
+💻 Minhas atividades no GitHub:
+
 <div align="left">
  
  <a href="https://github.com/mariaraquell">
@@ -15,7 +17,7 @@
  
  ##
  
- ESTUDANDO:
+ 📚 ESTUDANDO:
 <div style="display: inline_block"><br>
   
  <img align="center" alt="Maria-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +28,7 @@
  </div>
   
   ##
- REDES SOCIAIS/CONTATO:
+ 📱REDES SOCIAIS/CONTATO:
  
 <div>
   <a href="https://instagram.com/mariaraquellz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
