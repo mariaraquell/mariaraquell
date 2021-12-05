@@ -1,6 +1,9 @@
-### 👋 Olá!!! Seja bem-vindo(a). 
+### 👋 Olá! Seja bem-vindo(a). 
 - 🙋‍♀️ Chamo-me Maria Raquel
-- 👩‍💻Estudante de Sistemas de Informação | UAM
+- 👩‍💻Cursando Sistemas de Informação | UAM
+- 💼 Atualmente trabalho como Auxliar Administrativa, todavia estou aberta para novas oportunidades.
+
+##
 
 <div align="left">
  
