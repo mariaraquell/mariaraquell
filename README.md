@@ -1,6 +1,4 @@
 ### 👋 Olá!!! Tudo bem? Eu sou a Maria Raquel, estudante de S.I
- 
-- 🌱 Cursando Sistemas de Informação| UAM
 
 <div align="left">
  <a href="https://github.com/mariaraquell">
