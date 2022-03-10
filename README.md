@@ -1,7 +1,5 @@
 ### 👋 Olá! Seja bem-vindo(a). 
-- 🙋‍♀️ Chamo-me Maria Raquel
-- 👩‍💻Cursando Sistemas de Informação | UAM
-- 💼 Atualmente trabalho como Auxliar Administrativa, todavia estou aberta para novas oportunidades.
+- 👩‍💻Loading Dev
 
 ##
 
