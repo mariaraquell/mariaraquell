@@ -1,4 +1,4 @@
-💻 Minhas atividades no GitHub:
+💻
 
 <div align="left">
  
