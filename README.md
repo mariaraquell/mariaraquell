@@ -1,7 +1,3 @@
-### 👋 Olá! Seja bem-vindo(a) ao meu perfil!
-
-##
-
 💻 Minhas atividades no GitHub:
 
 <div align="left">
